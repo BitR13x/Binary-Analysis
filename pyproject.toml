@@ -1,0 +1,10 @@
+[project]
+name = "bin-workspace"
+version = "0.3.0"
+description = ""
+requires-python = ">=3.12"
+dependencies = [
+    "pandas>=2.3.1",
+    "plotly>=6.2.0",
+    "streamlit>=1.47.1",
+]
